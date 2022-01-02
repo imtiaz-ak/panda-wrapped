@@ -7,7 +7,7 @@ let accessToken;
 // // const getData = async(token) => {
 // //   // use axios to get the IDs of the user
 // //   const response = await axios.get(`https://gmail.googleapis.com/gmail/v1/users/me/profile`, {headers: {Authorization: `Bearer ${token}`}})
-// //   return response
+// //   return response ..
 // // }
 
 export default async (req, res) => {
